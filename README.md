@@ -1,5 +1,5 @@
 <h1> SUSTENTABILIDADE</h1>
-COLABORAÇÃO: CRIANDO UM FUTURO SUSTENTÁVEL
+COLABORAÇÃO: # CRIANDO UM FUTURO SUSTENTÁVEL
 Nossas parcerias estão ajudando a reduzir os gases do efeito estufa, diminuir o desperdício e conscientizar os jovens quanto à sustentabilidade.
 
 TRANSFORMANDO O DESPERDÍCIO DE CO2 EM FERTILIZANTE
