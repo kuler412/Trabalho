@@ -5,7 +5,7 @@
 <br>
     
 <h3>TRANSFORMANDO O DESPERDÍCIO DE CO2 EM FERTILIZANTE</h3>
-       Na nossa megainstalação de captura e purificação de CO2, podemos reutilizar até meio milhão de toneladas de emissões de resíduos que, de outra forma, seriam lançadas na atmosfera. Uma parte considerável do CO2 capturado é usada para produzir ureia, um agronutriente à base de nitrogênio muito utilizado para gerar colheitas mais abundantes.
+       <p>Na nossa megainstalação de captura e purificação de CO2, podemos reutilizar até meio milhão de toneladas de emissões de resíduos que, de outra forma, seriam lançadas na atmosfera. Uma parte considerável do CO2 capturado é usada para produzir ureia, um agronutriente à base de nitrogênio muito utilizado para gerar colheitas mais abundantes.</p>
 <br>
 
 <h4>MENOS DESPERDÍCIO DE ALIMENTOS</h5>
