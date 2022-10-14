@@ -1,3 +1,24 @@
+body{ 
+
+    color : rgb(202, 38, 38);
+    text-align: center;
+    background-image: linear-gradient(to red, black, orange );
+}
+
+    .centro{
+        text-align: center;
+}
+    p{
+        text-align: justify;
+        font-size: 20px;
+        font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+.tamanho{
+    width: 200px; margin: 150px;
+}
+
+
 h1{
     color: red;
 }
